@@ -1,0 +1,35 @@
+.btun{
+   color:rgb(0, 0, 0);
+    width: 40%;
+    height: 3em;
+    border-radius: 2em;
+
+}
+.pag{
+    background-image: url("../images/4997779_1635.jpg");
+height: 740px;
+top: -5px;
+background-size: cover;
+position: relative;
+}
+
+
+input{
+    text-align: left;
+
+}
+.cove{
+    margin-right: 500px;
+    margin-top: 5px;
+    padding: 0%;
+    left: 500px;
+    height: 100px;
+    position: relative;
+    width: 700px;
+    top: 150px;
+    text-align: center;
+}
+.tx{
+    top: -5px;
+    position: relative;
+}

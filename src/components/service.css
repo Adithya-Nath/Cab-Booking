@@ -1,0 +1,35 @@
+
+.container{
+    text-align: center;
+    margin-top:1rem ;
+    background-size: 775px;
+   background-image: url("../images/34687475_8170218.jpg");
+   background-size: cover;
+  top:-16px ;
+  width: 1519px;
+  position:relative ;
+  height: 740px;
+}
+.cov{
+    margin-right: 500px;
+    margin-top: 5px;
+    padding: 0%;
+    position: relative;
+    left: 280px;
+    top: 107px;
+
+}
+.txt{
+    position: relative;
+    text-align: center;
+    top: 55px;
+}
+.btn{
+    position: relative;
+    top: 50px;
+    left: -434px;
+}
+.tm{
+position: relative;
+left: 47px;
+}

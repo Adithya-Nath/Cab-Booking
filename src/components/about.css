@@ -1,0 +1,27 @@
+
+.contain{
+   
+    position:absolute;
+    width:1200px;;
+    height: 589px;
+    top: 49px;
+    bottom: 100px;
+    left: 0px;
+    background-repeat: no-repeat;
+    background-size: 1000px;
+   background-image: url("../images/sedan-car-concept-illustration_114360-12204.avif");
+}
+.abt{
+    position: relative;
+    left: 910px;
+    top: 90px;
+    width: 800px;
+}
+.paa{
+    font-size:20px ;
+    right: 10%;
+    position: absolute;
+    left: 5px;
+    padding-right: 150px;
+}
+

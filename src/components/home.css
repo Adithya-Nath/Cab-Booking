@@ -1,0 +1,47 @@
+/*.video-container {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 1520px;
+  height: 728px;
+  background-position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  z-index: -1;
+}
+*/
+.app-class{
+  width: 100vw;
+  position: relative;
+  height:93vh;
+  background: url("../images/21388606_2111.w023.n001.1368B.p1.1368.jpg");
+  background-size: cover;
+  overflow: hidden;
+}
+.contact {
+  position: relative;
+  text-align: center;
+  top: 250px;
+  left: 20px;
+  color: white;
+  font-size: 40px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cont {
+  position: relative;
+  text-align: center;
+  top: 100px;
+  left: -5px;
+  font-size: 35px;
+  color: rgb(12, 12, 12);
+  font-weight: 600;
+}
+.bi{
+  
+  top:0;
+  right: 0;
+  position: relative;
+  height: 50px;
+}

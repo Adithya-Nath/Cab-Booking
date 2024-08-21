@@ -1,0 +1,47 @@
+
+
+  .cs{
+    color:black;
+    top:500px;
+  }
+  .content{
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:justify;
+  }
+   nav{
+    background-color: black;
+color:white;
+display:flex;
+justify-content:space-between;
+align-items: center  ;
+gap: 2rem;
+padding: 0rem;
+
+}  
+.video-container {
+  position: relative;
+  top: 0px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.content-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+}
+
+.content-container h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.content-container p {
+  font-size: 1.2rem;
+}
